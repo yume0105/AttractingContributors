@@ -1,5 +1,2 @@
-# Please indicate your favourite places to eat near NAIST.
+好きな映画のプレゼン
 
-# List of place
-- mamemame saisai
-- Gusto
