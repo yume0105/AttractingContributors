@@ -1,5 +1,8 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favourite text editor?
 
-# List of place
-- mamemame saisai
-- Gusto
+e.g. VSCode, Vim, Emacs, etc...  
+🤗 <https://en.wikipedia.org/wiki/Editor_war>  
+
+# List of editor
+
+- VSCode
