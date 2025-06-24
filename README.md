@@ -1,5 +1,5 @@
-# Please indicate your favourite ramen restaurant.
+# Please indicate your favourite ramen restaurant./あなたの好きなラーメン屋はどこですか？
 
 # List of place
-- mamemame saisai
-- Gusto
+- 
+- 
