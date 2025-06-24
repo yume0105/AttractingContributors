@@ -2,5 +2,6 @@
 
 # List of color
 - blue
+- scarlet
 - red
 - Moegiiro/萌黄色
