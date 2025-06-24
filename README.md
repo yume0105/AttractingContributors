@@ -2,6 +2,8 @@
 
 # Name of the songs
 - Rodrigo Amarante - Tuyo
+- Sade - Jezebel
+- Barcelona - Ed Sheeran
 - Sade - Jezebel 
 - Hype Boy - NewJeans
 - Old Man - Tom Misch
