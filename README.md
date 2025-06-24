@@ -3,6 +3,7 @@
 # Name of the songs
 - Rodrigo Amarante - Tuyo
 - Sade - Jezebel 
+- Hype Boy - NewJeans
 - Old Man - Tom Misch
 - We All Lift Together - Keith Power
 - Sade - Jezebel
