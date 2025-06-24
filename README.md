@@ -2,3 +2,5 @@
 
 # List of the foods you had yesterday evening
 - udon
+- Curry
+- grilled chicken
