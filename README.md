@@ -6,3 +6,4 @@
 - grilled chicken
 - pasta
 - pasta
+- pork fried with ginger
