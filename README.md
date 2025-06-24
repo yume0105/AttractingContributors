@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate what you ate last night
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of the foods you had yesterday evening:
+
+
+- 
