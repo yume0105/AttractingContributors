@@ -5,8 +5,8 @@
 - Shuzo Matsuoka
 - Lionel Messi
 - Michael Jordan
-- 
-- 
+- Hayato Sakamoto
+- Yutaka Take
 - 
 - 
 - 
