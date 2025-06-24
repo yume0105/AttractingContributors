@@ -2,3 +2,4 @@
 
 # List of the foods you had yesterday evening
 - Curry
+- grilled chicken
