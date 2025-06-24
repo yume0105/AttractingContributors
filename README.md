@@ -3,3 +3,4 @@
 # Name of the songs
 - Rodrigo Amarante - Tuyo
 - Sade - Jezebel 
+- Hype Boy - NewJeans
