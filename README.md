@@ -2,4 +2,5 @@
 
 # List of shopping
 Macbook ￥330,000
+Desktop PC ￥180,000
 Car ￥1,400,000
