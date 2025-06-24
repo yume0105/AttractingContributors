@@ -3,3 +3,4 @@
 # List
 - coca cola
 - Mitsuya Cider
+- Royal milk tea
