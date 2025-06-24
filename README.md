@@ -3,4 +3,5 @@
 # Name of the songs
 - Rodrigo Amarante - Tuyo
 - Sade - Jezebel
+- Sapphire
 - TOMOO - Super Ball
