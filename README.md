@@ -7,3 +7,5 @@
 - CALPIS soda
 - coffee
 - Skal
+- o-i tea
+
