@@ -4,3 +4,5 @@
 - Rodrigo Amarante - Tuyo
 - Sade - Jezebel
 - Perfume - Magic of love
+- Sapphire
+- TOMOO - Super Ball
