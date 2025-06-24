@@ -9,3 +9,4 @@
 - navy blue
 - rainbow
 - Black
+- Stardust Blue
