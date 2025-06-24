@@ -1,4 +1,4 @@
-# What is your favorite professional sport player.
+# Who is your favorite professional sport player.
 
 # List of place
 - Shohei Ohtani
