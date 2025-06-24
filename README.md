@@ -3,3 +3,4 @@
 # Name of the songs
 - Rodrigo Amarante - Tuyo
 - Sade - Jezebel 
+- We All Lift Together - Keith Power
