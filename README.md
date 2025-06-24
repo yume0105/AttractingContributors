@@ -2,4 +2,5 @@
 
 # Name of the songs
 - Rodrigo Amarante - Tuyo
-- Sade - Jezebel 
+- Sade - Jezebel
+- Perfume - Magic of love
