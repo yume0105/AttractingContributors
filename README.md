@@ -5,3 +5,4 @@
 - Mitsuya Cider
 - Royal milk tea
 - CALPIS soda
+- coffee
