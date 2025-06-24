@@ -3,3 +3,4 @@
 # List of meme
 - Cat Dancing Meme
 - Nice Ojisan
+- Getsuyoubi ga chikaiyo
