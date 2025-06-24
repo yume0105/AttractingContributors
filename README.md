@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# What are the recommended songs you are listening to recently?
 
-# List of place
-- mamemame saisai
-- Gusto
+# Name of the songs
+- Rodrigo Amarante - Tuyo
+- Sade - Jezebel 
