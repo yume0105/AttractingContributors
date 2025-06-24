@@ -5,4 +5,5 @@ List of place
 - Osaka
 - Tokyo
 - Saga
+- Oita
 - Kagoshima
