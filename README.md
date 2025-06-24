@@ -2,3 +2,4 @@
 
 # List of color
 - blue
+- red
