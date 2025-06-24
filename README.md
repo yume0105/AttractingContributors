@@ -5,6 +5,7 @@
 - scarlet
 - red
 - Moegiiro/萌黄色
+- black
 - navy blue
 - rainbow
 - Black
