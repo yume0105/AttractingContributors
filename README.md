@@ -2,3 +2,4 @@
 
 # List of shopping
 Macbook ￥330,000
+Trumpet ￥300,000
