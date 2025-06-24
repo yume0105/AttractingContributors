@@ -6,3 +6,4 @@
 - Royal milk tea
 - CALPIS soda
 - coffee
+- Skal
