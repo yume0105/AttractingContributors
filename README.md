@@ -8,3 +8,5 @@
 - coffee
 - Skal
 - black coffee
+- Japanese rice wine
+- o-i tea
