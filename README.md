@@ -13,4 +13,5 @@
 - Sapphire
 - TOMOO - Super Ball
 - SOCIETY - Valley
+- $uicideboy$ - Magazine
 - Without You - Avicii
