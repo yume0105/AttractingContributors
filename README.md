@@ -14,3 +14,5 @@
 - TOMOO - Super Ball
 - SOCIETY - Valley
 - Tempestissimo - t+pazolite
+- $uicideboy$ - Magazine
+- Without You - Avicii
