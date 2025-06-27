@@ -10,3 +10,4 @@
 - rainbow
 - Black
 - Stardust Blue
+- Asagiiro/浅葱色
