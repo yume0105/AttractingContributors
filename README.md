@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# どんなアニメが好きですか./What Anime do you like?
 
-# List of place
-- mamemame saisai
-- Gusto
+# 好きなアニメ
+- 機動戦士ガンダム 逆襲のシャア/Mobile Suit Gundam Char's Counterattack
+  
