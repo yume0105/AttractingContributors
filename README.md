@@ -18,4 +18,4 @@ Thank you for reading!<br>
 Please add it below! I appreciate your cooperation./以下に追加してください！ご協力お願いします。
 # List of place
 -　The Zone of Interest
--
+- Interstaller
