@@ -1,6 +1,6 @@
-My Top 10 Recently watched movies<br>
+#My Top 10 Recently Watched Movies<br>
 I’d like to introduce my favorite movies.<br>
-Most of them are foreign holler films.<br>
+Most of them are foreign horrer films.<br>
 
 1.Pearl<br>
 2.X<br>
@@ -9,7 +9,7 @@ Most of them are foreign holler films.<br>
 5.Whiplash/セッション<br>
 6.ALIEN2<br>
 7.Parasite/パラサイト半地下の家族<br>
-8.Evil Dead/死霊のはらわたリメイク版<br>
+8.Evil Dead(remake)/死霊のはらわたリメイク版<br>
 9.Hellraiser/ヘルレイザー<br>
 10.Professor Layton and the Eternal Diva/レイトン教授と永遠の歌姫<br>
 
