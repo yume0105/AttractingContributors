@@ -5,12 +5,12 @@ Most of them are foreign holler films.<br>
 1.Pearl<br>
 2.X<br>
 3.ALIEN/エイリアン<br>
-4.Tucker and Dale vs. Evil/タッカーとデイル
-5.Whiplash/セッション
-6.ALIEN2
-7.Parasite/パラサイト半地下の家族
-8.Evil Dead/死霊のはらわたリメイク版
-9.Hellraiser/ヘルレイザー
-10.Professor Layton and the Eternal Diva/レイトン教授と永遠の歌姫
+4.Tucker and Dale vs. Evil/タッカーとデイル<br>
+5.Whiplash/セッション<br>
+6.ALIEN2<br>
+7.Parasite/パラサイト半地下の家族<br>
+8.Evil Dead/死霊のはらわたリメイク版<br>
+9.Hellraiser/ヘルレイザー<br>
+10.Professor Layton and the Eternal Diva/レイトン教授と永遠の歌姫<br>
 
 Thank you for reading!<br>
