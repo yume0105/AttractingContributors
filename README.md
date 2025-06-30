@@ -2,9 +2,9 @@ My Top 10 Recently watched movies<br>
 I’d like to introduce my favorite movies.<br>
 Most of them are foreign holler films.<br>
 
-1.Pearl　
-2.X
-3.ALIEN/エイリアン
+1.Pearl<br>
+2.X<br>
+3.ALIEN/エイリアン<br>
 4.Tucker and Dale vs. Evil/タッカーとデイル
 5.Whiplash/セッション
 6.ALIEN2
