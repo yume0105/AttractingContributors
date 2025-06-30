@@ -19,4 +19,6 @@ Please add it below! I appreciate your cooperation./以下に追加してくだ�
 # List of place
 - The Zone of Interest
 - Interstaller
+- The Shawshank Redemption
 - Doll house
+
