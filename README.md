@@ -26,4 +26,5 @@ Please add it below! I appreciate your cooperation./以下に追加してくだ�
 - Miss Kobayashi's Dragon Maid
 - Detective Conan series
 - 船を編む（The Great Passage）
+- Squid Game Season 3
 
