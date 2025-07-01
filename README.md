@@ -28,5 +28,6 @@ Please add it below! I appreciate your cooperation./以下に追加してくだ�
 - 船を編む（The Great Passage）
 - Mission Impossible
 - Squid Game Season 3
+- Cloud Atlas
 
 
