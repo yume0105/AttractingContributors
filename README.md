@@ -29,5 +29,5 @@ Please add it below! I appreciate your cooperation./以下に追加してくだ�
 - Mission Impossible
 - Squid Game Season 3
 - Cloud Atlas
-
+- Solo Leveling
 
