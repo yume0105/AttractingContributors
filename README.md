@@ -25,5 +25,7 @@ Please add it below! I appreciate your cooperation./以下に追加してくだ�
 - Inception
 - Miss Kobayashi's Dragon Maid
 - Detective Conan series
+- Mission Impossible
 - Squid Game Season 3
+
 
