@@ -11,6 +11,7 @@
 - Black
 - Stardust Blue
 - Asagiiro/浅葱色
+- blue
 - nevy blue
 - White
 - red
