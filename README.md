@@ -12,3 +12,6 @@
 - Stardust Blue
 - Asagiiro/浅葱色
 - gray
+- pink
+- red
+- light blue
