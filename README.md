@@ -11,5 +11,6 @@
 - Black
 - Stardust Blue
 - Asagiiro/浅葱色
+- pink
 - red
 - light blue
