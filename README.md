@@ -21,3 +21,5 @@
 - red
 - light blue
 - red
+- Yellow
+- Blue
